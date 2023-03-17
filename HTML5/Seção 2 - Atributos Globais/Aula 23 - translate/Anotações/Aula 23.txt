@@ -1,0 +1,12 @@
+Usamos esse atributo para podermos definir se um elemento será ou não traduzido em um navegador quando o usuário forçar a tradução da página para o idioma preferido. Dessa forma poderemos criar páginas onde textos imprescindíveis não serão traduzidos.
+
+Exemplo:
+
+<body>
+    
+    <h1 translate="no">Hello, world!</h1>
+    <p translate="yes">Welcome!</p>
+
+</body>
+
+Onde os valores "yes" e "no" definem se o elemento será ou não traduzido.

@@ -1,0 +1,1 @@
+O atributo "title" pode ser colocado em qualquer uma das tags para ajudar o usuário a identificar o que o elemento em que o cursor está faz, como por exemplo para onde um texto com link o levará. Dessa forma, o uso desse atributo serve como uma "dica" ao usuário. 
