@@ -1,0 +1,10 @@
+Essa tag serve para dizer ao navegador que o arquivo se trata de um documento no formato HTML. 
+
+Exemplo
+
+<!DOCTYPE html>
+<html>
+    
+</html>
+
+Escrevendo dessa forma, o navegador interpretará que se trata da versão 5 do HTML e dará suporta a todos os recursos disponíves nessa versão.

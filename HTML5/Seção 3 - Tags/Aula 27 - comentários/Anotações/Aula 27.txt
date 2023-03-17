@@ -1,0 +1,31 @@
+Usamos os comentários no código HTML para podermos nos encontrar melhor em alguma parte do código. Dessa forma não precisaremos ficar buscando linha por linha por algum elemento que diz respeito ao título, por exemplo. Uma situação útil para se usar os comentários no código é quando temos muitas divs dentro de outra e comentamos no código qual é a div que está sendo fechada. O comentário pode ser feito tanto em blocos quanto em linhas.
+
+Exemplo:
+
+<body>
+    
+    <div class="content">
+
+        <div class="menu">
+
+            <div>
+                
+            </div>
+
+        </div> <!-- .menu -->
+        
+    </div> <!-- .content-->
+
+
+    <!--
+
+        Este é um comentário de bloco.
+
+        Este é outro comentário de bloco.
+
+        Este é mais um comentário de bloco.
+
+    -->
+</body>
+
+

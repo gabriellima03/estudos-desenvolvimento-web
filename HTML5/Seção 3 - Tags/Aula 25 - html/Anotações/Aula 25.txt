@@ -1,0 +1,12 @@
+Essa tag é usada para definir um documento HTML, é a tag raiz da estrutura de um documento e recebe todos os atributos globais. Com excessão do DOCTYPE, todas as tags são filhas ou descendente da tag html. 
+
+Estilo CSS padrão:
+
+html {
+    display: block
+}
+
+html: focus {
+    outline: none
+}
+
