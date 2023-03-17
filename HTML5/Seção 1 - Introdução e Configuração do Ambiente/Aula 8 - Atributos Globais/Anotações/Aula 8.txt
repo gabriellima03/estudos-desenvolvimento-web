@@ -1,0 +1,10 @@
+Atributos globais são aqueles que todas as TAGs podem ter em comum. 
+
+- Todos os elementos HTML podem ter atributos. 
+
+- Atributos fornecem informações adicionais sobre um elemento (TAG) 
+
+- Os atributos sempre serão definidos na TAG de abertura.
+
+- Os atributos podem ser em pares nome/valor
+(ex: nome="valor"). Se o valor de um atributo for igual ao nome, utilizar apenas nome.

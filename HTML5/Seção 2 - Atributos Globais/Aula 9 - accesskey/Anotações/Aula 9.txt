@@ -1,0 +1,6 @@
+Esse atributo serve para definirmos uma tecla de atalho para um elemento e geralmente é usada para botões. Por exemplo quando usamos o alt+s e o botão de salvar fica destacado. Essa função pode ser feita por JavaScript, mas o HTML5 já possui essa função nativamente. 
+
+Exemplo: 
+
+<button type="button" accesskey="n">Novo</button>
+<button type="button" accesskey="s">Salvar</button>

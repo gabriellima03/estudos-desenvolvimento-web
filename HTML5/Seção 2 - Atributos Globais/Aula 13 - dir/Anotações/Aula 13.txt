@@ -1,0 +1,13 @@
+O atributo "dir" define se a nossa página será lida da esquerda para a direita ou vice-versa. Útil para a criação de sites onde a leitura não será feita somente em Português, mas também em algum idioma lido da direita para a esquerda. 
+
+Exemplo: 
+
+<p dir="ltr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sit odio ratione hic officiis rerum delectus necessitatibus suscipit illo facilis enim nesciunt eos, accusantium nostrum tenetur dolore iusto consectetur dicta?</p>
+
+<p dir="rtl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sit odio ratione hic officiis rerum delectus necessitatibus suscipit illo facilis enim nesciunt eos, accusantium nostrum tenetur dolore iusto consectetur dicta?</p>
+
+ltr = left to right
+rtl = right to left
+auto = de acordo com o idioma do sistema operacional
+
+ 

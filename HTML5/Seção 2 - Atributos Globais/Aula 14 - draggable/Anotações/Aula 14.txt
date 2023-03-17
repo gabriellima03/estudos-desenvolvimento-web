@@ -1,0 +1,9 @@
+Esse atributo serve para tornar um elemento HTML "arrastável". 
+
+Exemplo:
+
+<button type="button" draggable="true">OK</button>
+
+<div id="quadrado" draggable="true"></div>
+
+O valor pode ser definido como "true" ou "false", porém o segundo se torna desnecessário, uma vez que já é definido por padrão. 

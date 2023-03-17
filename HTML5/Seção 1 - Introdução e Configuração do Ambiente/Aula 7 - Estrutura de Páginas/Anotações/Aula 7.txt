@@ -1,0 +1,28 @@
+<html lang="pt-br">
+
+Para que seja reconhecido o texto em português
+
+<meta charset="UTF-8"
+
+Especifica o padrão de codificação dos caracteres da página,
+ajustando para o padrão internacional, podendo assim utili-
+zar caracteres especiais, acentos e até emojis. 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+Utilizado para que o site seja responsivo, se adaptando à telas 
+de dispositivos móveis, por exemplo. 
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+Aumenta a compatibilidade para navegadores.
+
+DESCENDENTE 
+
+Qualquer nível além de elementos filho. 
+
+
+
+
+
+

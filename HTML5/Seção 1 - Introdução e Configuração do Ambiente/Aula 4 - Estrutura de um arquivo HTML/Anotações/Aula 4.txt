@@ -1,0 +1,11 @@
+Arquivos sempre serão salvos com a extensão ".html"
+
+Para reconhecer o arquivo:
+
+<!doctype html> 
+
+ELEMENTOS ANCESTRAL E FILHO 
+
+Elemento ancestral - <html> 
+
+Elementos filho - <head> e <body> 

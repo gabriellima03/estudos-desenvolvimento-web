@@ -1,0 +1,63 @@
+Esse atributo serve para definir qual é o local da página que aceitará o elemento arrastável (pelo draggable). O atributo ainda não funciona nativamente no HTML5, sendo necessário manipulá-lo via JavaScript. 
+
+Exemplo:
+
+HTML
+    <div id="b1" class="box" draggable="true"></div>
+    <br>
+    <div id="b2" class="box" draggable="true"></div>
+
+    <div class="drop" dropzone="copy"></div>
+
+
+
+CSS
+    <style>
+        .box{
+            width: 100px;
+            height: 100px;
+            background-color: chocolate;
+        }
+
+        .drop{
+            width: 200px;
+            height: 200px;
+            border: crimson 1px solid;
+        }
+    </style>
+
+
+
+JavaScript
+    <script>
+        const boxes = document.querySelectorAll('.box');
+        const dropzone = document.querySelector('.drop');
+
+        boxes.forEach(boxEl => {
+            boxEl.addEventListener('dragstart', e => {
+
+                e.dataTransfer.setData('Text', e.target.id);
+                console.log(e.target.id);
+
+            });
+        });
+
+        dropzone.addEventListener('dragover', e=> {
+
+            e.preventDefault();
+
+        });
+            
+        dropzone.addEventListener('drop', e => {
+
+            const id = e.dataTransfer.getData('Text');
+            const element = document.getElementById(id);
+
+            e.target.appendChild(element);
+
+        });
+    </script>
+
+
+
+

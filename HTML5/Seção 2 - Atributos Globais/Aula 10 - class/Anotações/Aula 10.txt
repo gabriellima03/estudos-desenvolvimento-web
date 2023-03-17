@@ -1,0 +1,7 @@
+Esse atributo serve para atribuir classes aos elementos. Dessa forma, podemos estilizar com CSS. Podemos adicionar a mesma classe para vários elementos, dessa forma, toda alteração no CSS será válida para todos os elementos de mesma classe. 
+
+Exemplo: 
+
+<h1 class="titulo">Exemplo</h1>
+
+<p class="paragrafo">Exemplo</p> 

@@ -1,0 +1,5 @@
+<button> </button>
+
+<button type="button"> </button> (onde type="button" é um botão que não faz nada) 
+
+

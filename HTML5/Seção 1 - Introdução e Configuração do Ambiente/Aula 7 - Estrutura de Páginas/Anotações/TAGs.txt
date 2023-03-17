@@ -1,0 +1,18 @@
+Semântica padrão (dentro de <body>) 
+
+<header> </header>
+
+<section> </section> 
+
+<footer> </footer> 
+
+Conhecidos como ELEMENTOS DE BLOCO. 
+
+
+<nav> </nav> (dentro do header) 
+
+Parte de navegação - menu 
+
+<div> </div> 
+
+Divisões para aplicar estilos CSS, dir para manipular via JavaScript, etc. 

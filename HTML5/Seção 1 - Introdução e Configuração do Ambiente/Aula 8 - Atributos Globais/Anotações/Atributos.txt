@@ -1,0 +1,65 @@
+accesskey
+
+Define uma tecla de atalho para focar no elemento (foco) 
+
+class
+
+Define quais classes CSS serão aplicadas no elemento.
+
+contenteditable
+
+Define se o elemento pode ou não ser editável.
+
+data-*
+
+Usado para armazenar dados em um elemento.
+
+dir
+
+Define a direção do conteúdo de um elemento. (dir-esq ou
+esq-dir). 
+
+draggable
+
+Define se o elemento pode ser arrastado ou não. 
+
+dropzone
+
+Define o que acontece quando o elemento arrastado é solto.
+
+hidden
+
+Define o elemento como oculto. 
+
+id
+
+Define uma identificação única para o elemento.
+
+lang
+
+Define a linguagem do conteúdo do elemento. 
+
+spellcheck 
+
+Define se deve ser verificada a ortografia do que é escrito
+(ortografia).
+
+style 
+
+Define estilos CSS diretamente no elemento.
+
+tabindex 
+
+Define a ordem de tabulação da página.
+
+title 
+
+Define informações sobre o elemento.
+
+translate
+
+Define se o conteúdo pode ser traduzido ou não. 
+
+
+
+

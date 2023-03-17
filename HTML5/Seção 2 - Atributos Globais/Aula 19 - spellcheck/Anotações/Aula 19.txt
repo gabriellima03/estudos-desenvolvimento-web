@@ -1,0 +1,13 @@
+Por padrão, o atributo spellcheck tem o valor "false", então não é necessário colocar esse valor, caso queira deixar o corretor ortográfico desativado em uma página. Esse atributo não surtirá efeito em elementos escritos pelo desenvolvedor, mas sim pelo usuário que acessará a página. Dessa forma, precisaremos deixar a possibilidade do usuário fazer alterações na página, habilitando a entrada de texto (contenteditable). 
+
+Exemplo:
+
+<body>
+    
+    <p spellcheck="true" contenteditable="true">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea cupiditate ad iusto dolorum laboriosam odio repellat, ullam culpa facilis a corrupti, perferendis quos minus quibusdam, blanditiis quo! Odit, sequi rem.</p>
+
+    <p spellcheck="false" contenteditable="true">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea cupiditate ad iusto dolorum laboriosam odio repellat, ullam culpa facilis a corrupti, perferendis quos minus quibusdam, blanditiis quo! Odit, sequi rem.</p>
+
+</body>
+
+No primeiro elemento, a verificação ortográfica será feita, enquanto que no segundo elemento, isso não ocorrerá.

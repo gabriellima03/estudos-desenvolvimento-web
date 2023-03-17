@@ -1,0 +1,23 @@
+Esse atributo é usado para definir uma identificação para o elemento HTML. O ID deve ser único. Via de regra, não é recomendado usar o mesmo ID para mais de um elemento. Caso queiramos colocar mais de um elemento no mesmo grupo, é recomendado usar o atributo "class".
+
+Exemplo:
+
+HTML
+
+    <div id="box-1"></div>
+    <br>
+    <div id="box-2"></div>
+
+JavaScript
+
+    <script>
+        
+        const box1 = document.getElementById('box-1');
+
+        console.log(box1);
+
+        const box2 = document.querySelector('#box-2');
+
+        console.log(box2);
+
+    </script>

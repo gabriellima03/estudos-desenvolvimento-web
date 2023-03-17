@@ -1,0 +1,21 @@
+AULA 2 
+
+HTML - Hyper Text Markup Language 
+
+TAG (elemento) sempre terão os sinais < > e o texto ficará entre TAGs.
+
+Início <exemplo> --> fim </exemplo>
+
+Cabeçalho = <heading1>Exemplo</heading1> (h1)
+
+Subtítulo = <heading2>Exemplo</heading2> (h2)
+
+Parágrafo = <paragraph>Exemplo</paragraph> (p)
+
+
+ATRIBUTOS (sempre na TAG de abertura)
+
+<tag atributo="valor">texto</tag>
+
+
+

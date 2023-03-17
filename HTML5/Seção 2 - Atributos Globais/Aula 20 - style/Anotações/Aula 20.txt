@@ -1,0 +1,9 @@
+Todos os elementos podem ter um "style". Sendo possível estilizar os elementos usando o atributo "class", "id" e até mesmo o nome da tag. Entretanto, nesse caso, iremos utilizar o atributo "style" direto dentro de uma tag. Apesar de não ser a forma recomendada, é uma das formas de estilizar um elemento.
+
+Exemplo: 
+
+<body>
+    
+    <p style="color: firebrick;">Lorem ipsum dolor, sit amet <span style="color: forestgreen;">consectetur</span> adipisicing elit. Odit, modi accusamus officia accusantium laborum a voluptate dolorum, enim recusandae sed suscipit. Necessitatibus, sequi voluptate. Non dicta debitis quis necessitatibus labore?</p>
+
+</body>

@@ -1,0 +1,7 @@
+Como o nome já sugere, esse atributo serve para ocultar um elemento. 
+
+Exemplo:
+
+<div>Gabriel</div>
+<div hidden>Lima</div>
+

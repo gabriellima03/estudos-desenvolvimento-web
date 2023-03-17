@@ -1,0 +1,10 @@
+Quando utilizamos o prefixo "data-", colocamos logo em seguida o dado que queremos criar dentro de um elemento. Para cada elemento, podemos criar quantos dados quisermos. os dados não ficarão visíveis ao usuário prontamente, porém a informação pode ser acessada ao inspecionar a página. Os dados podem ser manipulados pelo JavaScript. 
+
+Exemplo:  
+
+<ul>
+
+  <li data-id="1" data-email="gabriellima@exemplo.com">Gabriel Lima</li>
+  <li data-id="2" data-email="larissaferreira@exemplo.com">Larissa Ferreira</li>
+
+</ul> 

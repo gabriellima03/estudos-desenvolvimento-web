@@ -1,0 +1,12 @@
+O atributo "contenteditable" serve para tornar um conteúdo que não é editável (dentro de uma div, parágrafo, etc.) em editável. Dessa forma podemos fazer edições em tempo real numa página (porém quando atualizada, volta ao original descrito no código).
+
+Exemplo:
+
+<p contenteditable="true">texto aleatório</p> 
+
+Utilizando essa linha de código, fazemos com que o texto dentro de uma div ou parágrafo passe a ser editável.
+
+<p contenteditable="false">texto aleatório</p>
+
+Apesar de não ser incorreto, é desnecessário que utilize o "false", uma vez que, por padrão, o conteúdo já não é editável.
+ 
