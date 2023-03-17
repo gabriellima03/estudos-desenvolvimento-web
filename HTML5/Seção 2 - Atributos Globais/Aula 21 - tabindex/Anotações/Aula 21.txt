@@ -1,0 +1,18 @@
+Esse atributo serve para definirmos uma ordem de prioridade para a tecla tab do teclado. Se temos 4 elemementos clicáveis em uma página, a ordem de passagem do tab por esses elementos seria "1, 2, 3, 4", porém poderíamos usar o atributo "tabindex" para mudar para "1, 3, 2, 4", por exemplo.
+
+Exemplo: 
+
+<body>
+    
+    <form>
+
+        <input type="text" placeholder="E-mail" tabindex="1">
+        <input type="password" placeholder="Senha" tabindex="2">
+        <button type="reset" tabindex="4">Limpar</button>
+        <button type="submit" tabindex="3">Enviar</button>
+
+    </form>
+
+</body>S
+
+ 
