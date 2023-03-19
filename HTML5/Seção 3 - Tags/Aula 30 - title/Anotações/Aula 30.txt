@@ -1,0 +1,16 @@
+Como o nome já sugere, a tag "title" serve para dar título ao nosso documento e é filha da tag "head". Normalmente o título da página é visto na janela do navegador e também é apresentado de forma padrão ao adicionar a página aos favoritos. É a tag mais importante dentro de head, pois ela auxilia mecanismos de busca.
+
+Exemplo:
+
+<html>
+    <head>
+        <title>Gabriel Lima</title>
+    </head>
+</html>
+
+Estilo CSS padrão:
+
+title {
+    display: none;
+}
+

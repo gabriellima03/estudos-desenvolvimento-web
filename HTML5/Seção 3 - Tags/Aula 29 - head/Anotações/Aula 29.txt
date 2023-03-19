@@ -1,0 +1,7 @@
+Essa tag é utilizada para definir o cabeçalho do documento HTML e dentro dela podem ser incluídos; título do documento, estilos, scripts, meta informações, etc.
+
+Estilo CSS padrão:
+
+head {
+    display: none;
+}

@@ -1,0 +1,21 @@
+A tag "body" é uma das principais tags do arquivo HTML, pois é onde ficará o corpo do nosso elemento html (todos os elementos de layout, visíveis na página) e todos os atributos globais podem ser usados na tag HTML.
+
+Estilo CSS padrão:
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+body:focus {
+    outline: none
+}
+
+Para zerar o CSS padrão, basta utilizar:
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+    </style>

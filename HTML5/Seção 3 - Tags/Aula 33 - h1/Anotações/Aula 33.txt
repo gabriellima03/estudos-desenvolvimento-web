@@ -1,0 +1,13 @@
+Tag utilizada para definir o cabeçalho mais importante da página. É importante lembrar que a página deve ter somente uma tag "h1", pois dessa forma ajudamos os motores de busca a encontrar a página de forma mais eficiente. Essa tag recebe todos os atributos globais e não tem nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}

@@ -1,0 +1,6 @@
+A tag "meta" é usada para armazenar os metadados que serão carregados no cabeçalho do site. É filha da tag "head" e é usada por navegadores, mecanismos de busca e outros serviços web. Ela recebe todos os atributos globais, além dos atributos específicos dela mesma, sendo eles:
+
+charset - define qual a codificação de caracteres que foi utilizada no documento.
+content - define o conteúdo associado ao http-equiv.
+http-equiv - provê um cabeçalho HTTP com informação do conteúdo do atributo.
+name - define o nome do metadado.
