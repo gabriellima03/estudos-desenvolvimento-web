@@ -1,0 +1,12 @@
+Tag utilizada para definir estilos CSS dentro do próprio documento HTML. Ela possui todos os atributos globais, além de atributos exclusivos, como:
+
+media - define qual dispositivo de mídia o estil se aplica.
+type - define o tipo de mídia.
+
+Estilo CSS padrão
+
+style {
+    display: none;
+}
+
+Uma boa prática é colocar essa tag dentro de "head".

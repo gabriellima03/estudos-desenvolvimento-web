@@ -1,0 +1,13 @@
+Tag utilizada para definir o terceiro cabeçalho mais importante da página. Assim como a tag "h2", o uso múltiplo de "h3" não é desencorajado, por não se tratar de um título principal. Essa tag recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}

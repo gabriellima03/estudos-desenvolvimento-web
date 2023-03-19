@@ -1,0 +1,22 @@
+Tag utilizada para definir um script (JavaScript) executado no lado do cliente. Essa tag permite que o script seja escrito dentro dela mesma ou direcionar para um arquivo externo (.js). Ela possui todos os atributos globais, além de alguns atributos exclusivos, como:
+
+async - define que o script será executado de forma assíncrona (apenas para arquivos externos). 
+charset - define o padrão de caracteres usado.
+defer - define que o script só será executado depois da página ser carregada.
+src - define a fonte externa do script.
+type - define o tipo de mídia do script.
+
+Estilo CSS padrão:
+
+script {
+    display: none;
+}
+
+É altamente recomendado que essa tag seja inserida no final da tag "body". Caso seja usado antes de algum elemento da página, usa-se o atributo "defer".
+
+Exemplo:
+
+<body>
+    <script src="script.js" defer></script>
+    <h1>Hello, world!</h1>
+</body>

@@ -1,0 +1,13 @@
+Tag utilizada para definir o quinto título mais importante da página. Ela recebe todos os atributos globais e não possui atributos exclusivos.
+
+Estilo CSS padrão:
+
+h5 {
+    display: block;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
