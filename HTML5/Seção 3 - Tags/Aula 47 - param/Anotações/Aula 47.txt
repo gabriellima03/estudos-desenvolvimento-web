@@ -1,0 +1,10 @@
+Tag utilizada para definir um parâmetro para plugins incorporados com a tag "object". Ela recebe todos os atributos globais e possui dois atributos exclusivos, sendo eles:
+
+name - define o nome do parâmetro.
+value - define o valor do parâmetro.
+
+Estilo CSS padrão:
+
+param {
+    display: none;
+}

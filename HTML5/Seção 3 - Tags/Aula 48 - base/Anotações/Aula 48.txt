@@ -1,0 +1,6 @@
+Tag utilizada para definir uma URL padrão para todos os links da página e só pode ser utilizada uma vez e dentro de head. Se essa tag estiver presente, deverá ter um atributo "href", "target" ou ambos. Além de receber todos os atributos globais, ela possui dois atributos exclusivos, sendo eles:
+
+href - define a URL base para todos os links da página.
+target - define onde o link deve ser aberto.
+
+Não possui um estilo CSS padrão.

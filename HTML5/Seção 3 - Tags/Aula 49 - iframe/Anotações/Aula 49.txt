@@ -1,0 +1,18 @@
+Tag utilizada para definir um quadro embutido e esse, utilizado para incorporar outro documento no do documento HTML atual. Podemos tanto passar o link de outro documento HTML, quanto escrever um novo HTML dentro da tag. Recebe todos os atributos globais e tem atributos exclusivos, sendo eles:
+
+height - define a altura do quadro.
+name - define o nome do quadro.
+sandbox - ativa conteúdos restritos por padrão.
+src - define qual a fonte do documento a ser embutido.
+srcdoc - define qual a estrutura do documento a ser embutido.
+width - define a largura do quadro. 
+
+Estilo CSS padrão:
+
+iframe:focus {
+    outline: none;
+}
+
+iframe[seamless] {
+    display: block;
+}

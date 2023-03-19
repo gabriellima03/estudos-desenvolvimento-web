@@ -1,0 +1,17 @@
+Tag utilizada para associar o documento atual a um documento externo. Comumente usada para associar a um documento CSS. Recebe todos os atributos globais e possui vários atributos exclusivos, como:
+
+crossorigin - define como o elemento lida com solicitações de origem cruzada.
+href - define o link referente ao documento que será associado.
+hreflang - define a linguagem do documento associado.
+media - define em qual dispositivo se aplica esse documento.
+rel - define o relacionamento entre o documento atual e o associado.
+sizes - define um tamanho de largura e altura para associação de ícones.
+type - define o tipo de mídia do documento associado.
+
+Estilo CSS padrão:
+
+link{
+    display: none;
+}
+
+É sempre uma boa prática usá-la na tag "head".

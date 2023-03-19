@@ -1,0 +1,15 @@
+Tag utilizada para definir um objeto incorporado no documento, sendo possível incorporar áudio, vídeo, applets Java, ActiveX, PDF, etc.. Além disso, é possível incorporar parâmetros para o objeto usando a tag "param". Ela recebe todos os atributos globais, além de atributos exclusivos, como:
+
+data - define a URL do recurso que será usado como objeto.
+form - define a qual formulário esse objeto pertence.
+height - define a altura do objeto.
+name - define o nome do objeto.
+type - define o tipo de mídia do objeto.
+usemap - define o nome do mapa de imagem para ser usado com o objeto.
+width - define a largura do objeto.
+
+Estilo CSS padrão:
+
+object:focus {
+    outline: none;
+}

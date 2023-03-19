@@ -1,0 +1,12 @@
+Tag utilizada para definir um conteúdo externo embutido. Recebe todos os atributos globais e possui atributos exclusivos, como:
+
+height - define a altura do conteúdo embutido.
+src - define a fonte do conteúdo embutido.
+type - define o tipo do conteúdo embutido.
+width - define a largura do conteúdo embutido.
+
+Estilo CSS padrão:
+
+embed:focus {
+    outline: none;
+}

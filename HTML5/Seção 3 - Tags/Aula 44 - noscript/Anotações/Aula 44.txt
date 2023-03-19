@@ -1,0 +1,1 @@
+Essa tag define um conteúdo alternativo para usuários que desativaram scripts no navegador e o conteúdo dentro da tag será exibido somente se os scripts não forem suportados. Recebe todos os atributos globais e não tem nenhum estilo CSS padrão.

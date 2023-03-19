@@ -1,0 +1,33 @@
+A tag "a" (advinda de "anchor") é utilizada para criar hyperlinks e vincular uma página HTML com outra. Geralmente o atributo mais utilizado junto a ela é o "href" e por padrão, seu conteúdo é mostrado com sublinhado na página. Ela recebe todos os atributos globais e possui vários atributos exclusivos, sendo eles:
+
+download - utilizado para forçar o download do destino do link.
+href - define qual o endereço do link de destino.
+hreflang - define qual a linguagem do link de destino.
+media - define qual a mídia ou dispositivo do link de destino.
+ping - endereço de rastreamento para monitorar cliques no link de destino.
+referrerpolicy - define qual referenciador enviar.
+rel - define qual a relação do documento atual e o de destino.
+target - define onde o link deverá ser aberto.
+type - define o tipo de mídia do link de destino.
+
+Estilo CSS padrão:
+
+a:link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+a:visited {
+    color: #551A8B;
+}
+
+a:link:active {
+    color: red;
+}
+
+URL = Uniform Resource Locator (Localizador Padrão de Recursos)
+É o endereço de um recurso disponível em uma rede local ou remota.
+
+Estrutura da URL:
+protocolo://domínio:porta/caminho/recurso?parâmetros#fragmento

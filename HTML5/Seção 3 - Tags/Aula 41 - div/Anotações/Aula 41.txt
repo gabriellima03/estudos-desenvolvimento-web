@@ -1,0 +1,7 @@
+Tag utilizada para definir uma divisão ou seção do documento. Geralmente é usada como container para outros elementos e na maioria das vezes o principal objetivo de uso é estilizar com CSS ou executar tarefas com JavaScript. Ela recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+div {
+    display: block;
+}
