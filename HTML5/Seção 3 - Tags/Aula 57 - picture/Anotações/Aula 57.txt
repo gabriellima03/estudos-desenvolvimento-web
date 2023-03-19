@@ -1,0 +1,2 @@
+Tag utilizada par definir mais de uma fonte de imagem. Normalmente é utilizada para mostrar imagens de acordo com o tamanho da tela. Essa tag dever ter uma tag "img" ou mais tags "source". Ela recebe todos os atributos globais e não possui nenhum estilo CSS padrão.
+

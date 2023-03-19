@@ -1,0 +1,7 @@
+Tag utilizada para definir uma legenda para a tag figure. Ela recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+figcaption {
+    display: block;
+}

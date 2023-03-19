@@ -1,0 +1,9 @@
+Tag utilizada para definir uma faixa de texto em uma tag de mídia. Normalmente é utilizada para definir legendas em vídeos. Possui todos os atributos globais, além de atributos exclusivos, como:
+
+default - define se esta é a faixa selecionada por padrão.
+kind - define o tipo da faixa de texto.
+label - define o rótulo da faixa de texto. 
+src - define a URL da fonte da faixa de texto.
+srclang - define qual a linguagem dos dados da faixa de texto.
+
+Não possui estilo CSS padrão.

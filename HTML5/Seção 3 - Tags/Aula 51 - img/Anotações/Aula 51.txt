@@ -1,0 +1,18 @@
+Tag utilizada para inserir uma imagem na página. Essa tag não possui conteúdo e os atributos "src" e "alt" são obrigatórios. Ela recebe todos os atributos globais e além disso, possui atributos exclusivos, sendo eles:
+
+alt - define um texto alternativo para a imagem.
+crossorigin - define como o elemento lida com solicitações de origem cruzada.
+height - define a altura da imagem.
+ismap - define a imagem como um mapa de imagem do lado do servidor.
+longdesc - define uma descrição detalhada da imagem.
+sizes - define tamanhos alternativos da imagem.
+src - define qual a fonte/link da imagem.
+srcset - define a URL da imagem em diferentes situações. 
+usemap - define a imagem como um mapa de imagem do lado do cliente.
+width - define a largura da imagem. 
+
+Estilo CSS padrão:
+
+img {
+    display: inline-block;
+}

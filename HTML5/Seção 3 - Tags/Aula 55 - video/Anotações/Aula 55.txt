@@ -1,0 +1,13 @@
+Como o nome sugere, a tag "video" é utilizada para definir um vídeo, filme ou transmissão de vídeo. Atualmente são suportados os formatos: MP4, WEBM e OGG. Qualquer texto no conteúdo da tag será exibido em navegadores que não suportam a tag "video". Ela recebe todos os atributos globais, além de possuir atributos exclusivos, sendo eles:
+
+autoplay - começa a reproduzir assim que os dados do vídeo estiverem carregados.
+controls - habilita os controles de reprodução do vídeo.
+height - define a altura do player do vídeo.
+loop - define se o vídeo deve começar a reproduzir novamente após terminar.
+muted - define o volume do vídeo como mutado.
+poster - define uma imagem para ser exibida enquanto o vídeo estiver sendo carregado ou antes do usuário clicar em reproduzir.
+preload - define como o vídeo deve ser carregado quando a página é carregada.
+src - define qual a fonte/link do vídeo.
+width - define a largura do player de vídeo.
+
+Não possui nenhum estilo CSS padrão.

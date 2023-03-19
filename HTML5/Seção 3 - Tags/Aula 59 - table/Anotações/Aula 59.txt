@@ -1,0 +1,10 @@
+Como o nome sugere, essa tag é utilizada para criar tabelas. Todos atributos (menos os globais) foram removidos do HTML5. Apenas a tag "table" não cria toda a tabela, sendo necessário utilizar as tags "tr" e "td" para criar linhas e células, respectivamente. Uma tabela mais complexa pode ainda conter as tags "caption", "col", "colgroup", "thead", "tfoot" e "tbody". Apesar de, historicamente as tabelas terem sido usadas para criar o layout da página, é hoje considerado um mal uso desta tag.
+
+Estilo CSS padrão:
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: gray;
+}

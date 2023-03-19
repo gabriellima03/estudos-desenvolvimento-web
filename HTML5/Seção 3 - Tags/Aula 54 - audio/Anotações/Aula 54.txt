@@ -1,0 +1,10 @@
+Como o nome sugere, essa tag é utilizada para definir um som, música ou transmissões de áudio. Atualmente ela suporta os formatos MP3, WAV e OGG. Qualquer texto no conteúdo da tag será exibido em navegadores que não suportam a tag "audio". Ela recebe todos os atributos globais e além disso, possui atributos exclusivos, como:
+
+autoplay - começa a reproduzir assim que os dados do áudio estiverem carregados.
+controls - habilita os controles de reprodução do áudio.
+loop - define se o áudio deve começar a reproduzir novamente após terminar.
+muted - define o volume do áudio como mutado.
+preload - define como o áudio deve ser carregado quando a página é carregada.
+src - define qual a fonte/link do áudio.
+
+Essa tag não possui nenhum estilo CSS padrão.

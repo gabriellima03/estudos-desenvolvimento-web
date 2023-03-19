@@ -1,0 +1,9 @@
+Tag utilizada para definir uma fonte de mídia, usada junto com as tags "audio", "video" e "picture". Ela recebe todos os atributos globais, além dos atributos exclusivos:
+
+src - define a fonte externa do source.
+srcset - define uma fonte em situações diferentes.
+media - define em que tipo de mídia essa fonte de dados se aplica.
+sizes - define tamanhos diferentes. 
+type - define o tipo de mídia do arquivo.
+
+Não possui nenhum estilo CSS padrão.
