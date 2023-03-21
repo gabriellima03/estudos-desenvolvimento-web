@@ -1,0 +1,17 @@
+Tag utilizada para definir uma célula de cabeçalho. Deve ser utilizada dentro de uma tag "tr". Além de receber todos os atributos globais, ela também possui atributos exclusivos, como:
+
+abbr - define uma abreviação do conteúdo da célula de cabeçalho.
+colspan - define o número de colunas que esta célular deve ocupar.
+headers - define uma ou mais célular de cabeçalho relacionadas.
+rowspan - define o número de linhas que esta célula deve ocupar.
+scope - define se a célula é um cabeçalho de linha, coluna, grupo de linha ou grupo de coluna.
+sorted - define a direção da ordem da coluna.
+
+Display CSS padrão:
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: center;
+}

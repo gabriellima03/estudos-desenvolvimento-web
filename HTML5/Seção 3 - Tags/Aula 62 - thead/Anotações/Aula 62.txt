@@ -1,0 +1,15 @@
+Tag utilizada para agrupar o conteúdo do cabeçalho da tabela. Ela é usada em conjunto com as tags tbody e tfoot e os navegadores podem usar essa definição para ativar a rolagem do corpo da tabela.
+
+- A tag deve ser filha de uma tag table.
+- Pode vir após uma tag "caption" e/ou "colgroup".
+- Deve vir antes das tags "tbody" e "tfoot".
+- Deve ter uma ou mais tags "tr" dentro dela.
+- Não afeta visualmente a tabela, mas pode ser estilizada com CSS.
+
+Estilo CSS padrão:
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}

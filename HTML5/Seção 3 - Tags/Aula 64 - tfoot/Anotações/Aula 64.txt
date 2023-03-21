@@ -1,0 +1,14 @@
+Tag utilizada para agrupar o conteúdo do rodapé da tabela. Ela é usada em conjunto com as tags "tbody" e "thead" e os navegadores podem utilizar essa definição para ativar a rolagem do corpo da tabela. Recebe todos os atributos globais, porém não possui atributos exclusivos.
+
+- A tag deve ser filha de uma tag "table".
+- Deve vir depois das tags "thead" e "tbody".
+- Deve ter um ou mais tags "tr" dentro dela.
+- Não afeta visualmente a tabela, porém pode ser estilizada com CSS.
+
+Estilo CSS padrão:
+
+tfoot {
+    display: table-footer-group;
+    vertical-align: middle;
+    border-color: inherit;
+}

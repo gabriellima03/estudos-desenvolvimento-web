@@ -1,0 +1,9 @@
+Tag utilizada para definir uma linha dentro de uma tabela. Ela deve conter uma ou mais tags "th" e/ou "td". Todos os atributos (menos os globais) foram removidos no HTML5, sendo assim, ela não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+tr {
+    display: table-row;
+    verticaL-align: inherit;
+    border-color: inherit;
+}

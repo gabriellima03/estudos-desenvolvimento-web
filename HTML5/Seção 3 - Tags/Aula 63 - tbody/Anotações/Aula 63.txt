@@ -1,0 +1,13 @@
+Tag utilizada para agrupar o conteúdo do corpo da tabela. Ela é utilizada em conjunto com as tags "thead" e "tfoot" e os navegadores podem usar essa definição para ativar a rolagem do corpo na tabela. Recebe todos os atributos globais, porém não possui nenhum atributo exclusivo.
+
+- A tag deve ser filha de uma tag "table".
+- Deve vir depois da tag "thead" e antes da tag "tfood".
+- Não afeta visualmente a tabela, mas pode ser estilizada com CSS.
+
+Estilo CSS padrão:
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}

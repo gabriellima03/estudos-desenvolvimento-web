@@ -1,0 +1,12 @@
+Tag utilizada para definir uma célula da tabela. Ela deve ser utilizada dentro de uma tag "tr". Diferentemente da "td", além de receber os atributos globais, ela também recebe atributos exclusivos, como:
+
+colspan - define o número de colunas que esta célular deve ocupar.
+headers - define uma ou mais células de cabeçalho relacionadas.
+rowspan - define o número de linhas que esta célula deve ocupar.
+
+Estilo CSS padrão:
+
+td {
+    display: table-cell;
+    vertical-align; inherit;
+}
