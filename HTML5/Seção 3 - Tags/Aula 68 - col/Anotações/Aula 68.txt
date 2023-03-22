@@ -1,0 +1,9 @@
+Tag utilizada para definir propriedades em todas as células que formam uma coluna. Deve somente ser utilizada dentro de uma tag "colgroup". Recebe todos os atributos globais e possui um atributo exclusivo, sendo ele:
+
+span = define o número de colunas que esse grupo deve abranger.
+
+Estilo CSS padrão:
+
+col {
+    display: table-column;
+}

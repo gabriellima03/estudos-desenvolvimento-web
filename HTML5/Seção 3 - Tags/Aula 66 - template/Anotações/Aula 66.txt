@@ -1,0 +1,1 @@
+Tag utilizada para definir uma conteiner para código HTML que desejamos renderizar posteriormente (comumente via JavaScript). Ela recebe todos os atributos globais, porém não possui nenhum atributo exclusivo. Não possui nenhum estilo CSS padrão, dessa forma, não altera visualmente a página.

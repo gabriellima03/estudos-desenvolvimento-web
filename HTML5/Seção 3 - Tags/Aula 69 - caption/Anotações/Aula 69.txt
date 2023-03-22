@@ -1,0 +1,8 @@
+Tag utilizada para definir uma legenda da tabela. Deve ser inserida imediatamente após a abertura da tag "table" e o atributo "align" foi removido no HTML5, porém ela continua recebendo todos os atributos globais.
+
+Estilo CSS padrão:
+
+caption {
+    display: table-caption;
+    text-align; center;
+}
