@@ -1,0 +1,8 @@
+Tag utilizada para definir o cabeçalho da página. Pode também definir uma cabeçalho relativo ao seu contexto (o que significar que podemos usar mais de uma tag "header", contanto que estejam em contextos diferentes). Normalmente recebe as tags "h1", "h2", "h3", "h4", "h5" ou "h6". Pode ser utilizada para colocar um logotipo, ícone ou autoria em nosso conteúdo. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+header {
+    display: block;
+}
+

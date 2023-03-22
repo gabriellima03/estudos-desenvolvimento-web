@@ -1,0 +1,7 @@
+Essa tag é utilizada para definir como artigo o conteúdo da página. Normalmente usada em fóruns, blogs e notícias e é extremamente importante para separar semanticamente o conteúdo. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+article {
+    display: block;
+}

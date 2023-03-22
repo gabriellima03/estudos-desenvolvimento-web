@@ -1,0 +1,2 @@
+Essa tag é utilizada para definir o conteúdo principal do documento. Não deve haver nenhum conteúdo repetido dentro dela (como barras laterais, links de navegação, logotipos, menus, etc.). Só deve haver uma tag "main" por página. Recebe todos os atributos globais e não possui atributos exclusivos. Não afeta visualmente em nada na página, o que significa que não possui um estilo CSS padrão.
+

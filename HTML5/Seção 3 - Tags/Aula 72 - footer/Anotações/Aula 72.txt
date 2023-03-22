@@ -1,0 +1,8 @@
+Essa tag é utilizada para definir o rodapé de um documento e pode definir também um rodapé relativo ao seu contexto (o que significa que pode ser utilizada mais de uma vez dentro do documento). Geralmente contém informações de direitos autorais, autorias, contato, mapa do site, link para o topo ou links para outras páginas. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+footer {
+    display: block;
+}
+

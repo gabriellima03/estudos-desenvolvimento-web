@@ -1,0 +1,7 @@
+Tag utilizada para definir um conteúdo ao lado de um artigo e sua importância é de peso semântico de separação no conteúdo. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+aside {
+    display: block;
+}

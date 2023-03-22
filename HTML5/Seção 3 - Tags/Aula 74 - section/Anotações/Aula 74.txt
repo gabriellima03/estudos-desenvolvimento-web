@@ -1,0 +1,16 @@
+Tag utilizada para definir uma seção do documento, assim como o nome sugere. Recebe todos os atributos globais e não possui nenhum atributo exclusivol. Deve-se tomar cuidado ao tomar uma decisão de quando usar essa tag, pois talvez haja uma tag com mais especificidade para o que queremos. Por exemplo:
+
+Seção de cabeçalho - melhor opção é a tag "header".
+Seção de rodapé - melhor opção é a tag "footer".
+Seção de menu - melhor opção é a tag "nav".
+Seção de artigo - melhor opção é a tag "article".
+
+E assim por diante.
+
+O uso dessa tag é encorajado quando não há peso semântico e preferível ao usar uma tag "div" em alguns contextos.
+
+Estilo CSS padrão:
+
+section {
+    display: block;
+}
