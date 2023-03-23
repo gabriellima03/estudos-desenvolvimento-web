@@ -1,0 +1,15 @@
+Tag utilizada para definir uma citação simples. Ela recebe todos os atributos globais e possui um atributo exclusivo, sendo ele o "cite", utilizado para definir a URL da fonte da citação.
+
+Estilo CSS padrão:
+
+q {
+    display: inline;
+}
+
+q:before {
+    content: open-quote;
+}
+
+q:after {
+    content: close-quote;
+}

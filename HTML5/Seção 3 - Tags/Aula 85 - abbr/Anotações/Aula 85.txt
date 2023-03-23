@@ -1,0 +1,7 @@
+Tag utilizada para definir uma abreviação. É importante para fornecer informações úteis para navegadores, sistemas de tradução e mecanismos de busca. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+abbr {
+    display: inline;
+}

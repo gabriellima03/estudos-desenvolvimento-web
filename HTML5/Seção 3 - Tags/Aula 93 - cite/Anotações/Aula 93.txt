@@ -1,0 +1,7 @@
+Tag utilizada para definir o título de uma obra (livro, música, filme, pintura, escultura, etc.) Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+cite {
+    font-style: italic;
+}

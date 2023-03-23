@@ -1,0 +1,8 @@
+Tag utilizada para definir as informações de contato do autor do documento. Se estiver dentro de uma tag "article", irá definir as informações do autor do artigo. A tag pode incluir o endereço físico, URL, e-mail, telefone, mídia social, coordenadas geográficas, etc. Deve incluir o nome da pessoa, grupo ou organização. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+address {
+    display: block;
+    font-style: italic;
+}

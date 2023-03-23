@@ -1,0 +1,9 @@
+Essa tag é utilizada para criar um mapa de imagem clicável e o atributo "name" é obrigatório para relacionar com a tag "img". Essa tag também define as áreas clicáveis usando várias tags "area". Ela recebe todos os atributos globais e possui um atributo exclusivo, sendo ele:
+
+name - define um nome para relacionar com o atributo "usemap" da tag "img".
+
+Estilo CSS padrão:
+
+map {
+    display: inline;
+}

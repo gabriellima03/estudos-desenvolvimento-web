@@ -1,0 +1,1 @@
+Tag utilizada para associar um texto com algum outro dado. É importante para deixar o conteúdo legível tanto para usuários quanto para programas. Não possui nenhum estilo CSS padrão.

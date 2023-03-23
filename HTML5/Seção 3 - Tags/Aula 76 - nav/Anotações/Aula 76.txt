@@ -1,0 +1,7 @@
+Tag utilizada para definir um conjunto de links de navegação. Apesar disso, não há necessidade de colocar todos os links de uma página dentro da tag "nav". Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+nav {
+    display: block;
+}

@@ -1,0 +1,7 @@
+Tag utilizada para definir a direção do texto (diferentemente da tag "bdi", não reconhece automaticamente), substituindo a direção do texto atual. O atributo "dir" é obrigatório. Recebe todos os atributos globais e possui o atributo "dir", usado para definir a direção do texto dentro do elemento.
+
+Estilo CSS padrão:
+
+bdo {
+    unicode-bidi: bidi-override;
+}

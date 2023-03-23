@@ -1,0 +1,7 @@
+Tag utilizada para definir um texto em negrito, mas sem nenhuma importância extra. Antes de utilizar essa tag, devemos considerar o uso das tags "h1" a "h6", "em", "strong" e "mark". Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+b {
+    font-weight: bold;
+}

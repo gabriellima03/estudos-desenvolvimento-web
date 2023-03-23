@@ -1,0 +1,7 @@
+Tag utilizada para definir o cabeçalho visível da tag "details" ao usuário. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+summary {
+    display: block;
+}

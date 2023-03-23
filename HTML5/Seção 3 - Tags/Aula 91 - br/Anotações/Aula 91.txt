@@ -1,0 +1,1 @@
+Tag utilizada para definir uma quebra de linha. Essa tag não possui conteúdo e deve ser utilizada para quebrar linhas, não separar parágrafos. Recebe todos os atributos globais e não possui nenhum atributo exclusivo e nem estilo CSS padrão.

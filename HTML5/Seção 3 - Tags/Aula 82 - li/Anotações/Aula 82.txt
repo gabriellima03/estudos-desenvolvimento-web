@@ -1,0 +1,9 @@
+Tag utilizada para definir um item de lista e deve sempre estar dentro de uma tag "ul" ou "ol". Ela recebe todos os atributos globais e possui um atributo exclusivo, sendo ele:
+
+value - define o valor do item da lista. Quando usado em listar ordenadas, será o valor inicial da lista, caso contrário não haverá alteração.
+
+Estilo CSS padrão:
+
+li {
+    display: list-item;
+}

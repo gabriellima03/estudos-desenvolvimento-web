@@ -1,0 +1,10 @@
+Tag utilizada para definir um texto que foi excluído. Ela recebe todos os atributos globais e além deles, ainda possui dois atributos exclusivos, sendo eles:
+
+cite - define a fonte do motivo pelo qual o texto foi excluído.
+datetime - define quando o texto foi excluído. (AAAA-MM-DD hh:mm:ss)
+
+Estilo CSS padrão:
+
+del {
+    text-decoration: line-through;
+}

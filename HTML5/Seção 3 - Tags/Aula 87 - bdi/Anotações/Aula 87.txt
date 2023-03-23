@@ -1,0 +1,2 @@
+Tag utilizada para definir parte de um texto que pode ser formada em uma direção diferente da padrão. É muito útil ao exibir conteúdo gerado pelo usuário com uma direção desconhecida. Recebe todos os atributos globais e não possui nenhum atributo exclusivo. Não afeta em nada visualmente, o que significa que não possui um estilo CSS padrão.
+

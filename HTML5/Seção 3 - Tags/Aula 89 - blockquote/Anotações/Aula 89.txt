@@ -1,0 +1,15 @@
+Essa tag é utilizad apara definir uma citação externa, mas para citações curtas devemos usar a tag "q". Ela recebe todos os atributos globais e possui um atributo exclusivo, sendo ele:
+
+cite - define a fonte de citação. 
+
+Estilo CSS padrão:
+
+blockquote {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+O peso maior dessa tag é semântico, ajudando os mecanismos de busca.

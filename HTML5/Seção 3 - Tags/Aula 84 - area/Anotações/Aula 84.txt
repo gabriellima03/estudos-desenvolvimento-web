@@ -1,0 +1,19 @@
+Tag utilizada para definir áreas clicáveis em um mapa de imagem e deve sempre ser filha de uma tag "map". Recebe todos os atributos globais e possui múltiplos atributos exclusivos, sendo eles:
+
+alt - deifne um texto alternativo para a imagem.
+coords - define as coordenadas da área.
+download - usado para forçar o download do destino do link.
+href - define qual o endereço do link de destino.
+hreflang - define qual a linguagem do link de destino.
+media - define qual a mídia ou dispositivo do link de desino.
+rel - define qual a relação do documento atual e o de destino.
+shape - define uma forma para a área.
+target - define onde o link deverá ser aberto.
+type - define o tipo de mídia do link de destino.
+
+
+Estilo CSS padrão:
+
+area {
+    display: none;
+}
