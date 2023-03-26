@@ -1,0 +1,7 @@
+Tag utilizada para definir parte de um texto em uma voz ou humor diferente. O conteúdo é exibido em itálico. A tag também pode indicar um termo técnico, uma frase em outro idioma ou um pensamento. Antes de usar essa tag, deve-se considerar o uso das tags "em", "strong", "mark", "cite" ou "dfn". Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+ 
+ Estilo CSS padrão:
+
+ i {
+    font-style: italic;
+ }

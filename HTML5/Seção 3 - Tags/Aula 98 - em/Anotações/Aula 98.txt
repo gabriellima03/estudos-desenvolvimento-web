@@ -1,0 +1,7 @@
+Tag utilizada para definir uma ênfase em parte de um texto. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+em {
+    font-style: italic;
+}

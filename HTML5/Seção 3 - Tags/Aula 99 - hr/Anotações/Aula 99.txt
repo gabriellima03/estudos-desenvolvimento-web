@@ -1,0 +1,13 @@
+A tag "hr" (horizontal row) é utilizada para definir uma quebra temática na página (é uma quebra visível, pois é separada por uma linha) e normalmente é utilizada para separar o conteúdo. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}

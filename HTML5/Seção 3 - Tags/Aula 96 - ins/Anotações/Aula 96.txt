@@ -1,0 +1,10 @@
+Tag utilizada para definir um texto que foi inserido ou alterado. Recebe todos os atributos globais e possui dois atributos exclusivos, sendo eles:
+
+cite - define a fonte do motivo pelo qual o texto foi inserido ou alterado. 
+datetime - deifne quando o texto foi inserido ou alterado.
+
+Estilo CSS padrão:
+
+ins {
+    text-decoration: underline;
+}

@@ -1,0 +1,7 @@
+Tag utilizada para definir a instância de definição de um termo. A instância de definição normalmente é primeiro uso de um termo. A tag pai de "dfn" também deve conter a explicação para o termo. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+dfn {
+    font-style: italic;
+}
