@@ -1,0 +1,1 @@
+Tag utilizada para definir parênteses em navegadores que não suportam tags de anotação "ruby". Recebe todos os atributos globais e não possui nenhum atributo exclusivo e nem CSS padrão.

@@ -1,0 +1,1 @@
+Tag utilizada para definir uma anotação em ruby, que é um pequeno texto extra anexado ao texto principal para indicar a pronúncia ou o significado dos caracteres correspondentes. Esse tipo de anotação é frequentemente utilizado em publicações japonesas. Recebe todos os atributos globais e não possui nenhum atributo exclusivo, nem CSS padrão.

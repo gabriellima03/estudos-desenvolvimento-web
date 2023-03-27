@@ -1,0 +1,8 @@
+Tag utilizada para definir uma texto marcado, ou seja, devemos utilizá-la para destacar partes do texto. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+mark {
+    background-color: yellow;
+    color: black;
+}

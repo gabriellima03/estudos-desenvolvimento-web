@@ -1,0 +1,7 @@
+Tag utilizada para definir o texto ruby de uma anotação ruby. A tag fornece informações de pronúncia, tradução ou transliteração do Leste Asiático e deve sempre ser usada dentro de uma tag "ruby". Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+rt {
+    line-height: normal;
+}

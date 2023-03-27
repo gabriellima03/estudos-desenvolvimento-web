@@ -1,0 +1,7 @@
+Tag utilizada para definir uam entrada do teclado em uma frase. Recebe todos os atributos globais e não possui nenhum atributo exclusivo. 
+
+Estilo CSS padrão:
+
+kbd {
+    font-family: monospace;
+}
