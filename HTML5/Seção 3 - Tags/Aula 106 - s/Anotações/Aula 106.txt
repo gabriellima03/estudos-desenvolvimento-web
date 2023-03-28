@@ -1,0 +1,7 @@
+Tag utilizada para definir um texto que não é mais correto, preciso ou relevante, definindo uma linha através do texto. Para um texto que foi substituído ou excluído, ainda encoraja-se o uso da tag "del", ao invés da tag "s". Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+s {
+    text-decoration: line-through;
+}

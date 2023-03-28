@@ -1,0 +1,7 @@
+Tag utilizada para definir um texto como importante. Recebe todos os atributos globais e não possui nenhum atributo exclusivo. 
+
+Estilo CSS padrão:
+
+strong {
+    font-weight: bold;
+}

@@ -1,0 +1,8 @@
+Essa tag é utilizada para definir um texto subscrito. Seu uso geralmente se dá em fórmular químicas. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+sub {
+    vertical-align: sub;
+    font-size: smaller;
+}

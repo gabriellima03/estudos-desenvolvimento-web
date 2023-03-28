@@ -1,0 +1,8 @@
+Tag utilizada para definir um texto sobrescrito, com uso geralmente dado em notas de rodapé. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}

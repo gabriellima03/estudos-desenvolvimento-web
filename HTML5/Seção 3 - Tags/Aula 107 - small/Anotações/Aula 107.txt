@@ -1,0 +1,21 @@
+Tag utilizada para definir um texto pequeno. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+small {
+    font-size: smaller;
+}
+
+Ou seja, essa tag não possui um tamanho de fonte padrão, apenas fará com que o texto fique ligeiramente menor do que o padrão utilizado na tag em que está contido.
+
+Exemplo:
+
+<h1>Página HTML5 <small>Gabriel Lima</small></h1>
+<h2>Página HTML5 <small>Gabriel Lima</small></h2>
+<h3>Página HTML5 <small>Gabriel Lima</small></h3>
+<h4>Página HTML5 <small>Gabriel Lima</small></h4>
+<h5>Página HTML5 <small>Gabriel Lima</small></h5>
+<h6>Página HTML5 <small>Gabriel Lima</small></h6>
+<p>Página HTML5 <small>Gabriel Lima</small></p>
+
+Em todos esses casos, o texto contido dentro da tag "small" ficará um pouco menor do que o restando contido diretamente nas tags "h".
