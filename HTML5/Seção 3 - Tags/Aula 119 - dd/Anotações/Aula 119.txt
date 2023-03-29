@@ -1,0 +1,8 @@
+Tag utilizada para definir a descrição de um termo e é utilizada em conjunto com a tag "dt" e deve estar dentro de uma tag "dl". A tag pode ter em seu conteúdo; parágrafos, quebras de linha, imagens, links, listas, etc. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+dd {
+    display: block;
+    margin-left: 40px;
+}

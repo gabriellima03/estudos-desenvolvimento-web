@@ -1,0 +1,7 @@
+Tag utilizada para definir um termo em uma lista com descrição e utilizada em conjunto com as tags "dl" e "dd". Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+dt {
+    display:block;
+}

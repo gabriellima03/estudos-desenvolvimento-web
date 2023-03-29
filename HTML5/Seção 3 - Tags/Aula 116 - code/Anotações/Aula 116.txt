@@ -1,0 +1,7 @@
+Tag utilizada para definir parte de um texto como parte de um código de computador. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+conde {
+    font-family: monospace;
+}

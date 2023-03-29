@@ -1,0 +1,7 @@
+Tag utilizada para definir um texto como saída de amostra de um programa de computador. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+samp {
+    font-family: monospace;
+}

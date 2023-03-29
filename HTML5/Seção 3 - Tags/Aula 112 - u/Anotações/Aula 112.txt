@@ -1,0 +1,7 @@
+Tag utilizada para definir uma parte de um texto sublinhado. Usado normalmente para mostrar que uma palavra está com erro de ortografia. É necessário ter cuidado ao usar essa tag em casos que o usuário possa confundir o texto com um hyperlink. Recebe todos os atributos globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+u {
+    text-decoration: underline;
+}

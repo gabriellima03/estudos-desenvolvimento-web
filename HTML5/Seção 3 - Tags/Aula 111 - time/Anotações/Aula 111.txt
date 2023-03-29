@@ -1,0 +1,5 @@
+Tag utilizada para definir uma data e/ou hora legível para humanos. Recebe todos os atributos globais e além disso possui um atributo exclusivo, sendo ele:
+
+datetime - define a data e/ou hora legível também para leitores de máquina.
+
+Não possui um estilo CSS padrão.

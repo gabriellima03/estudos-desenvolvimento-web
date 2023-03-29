@@ -1,0 +1,17 @@
+Tag utilizada para definir um formulário, responsável por agrupar campos de entrada de dados dos usuários. Recebe todos os atributos globais e possui alguns atributos exclusivos, sendo eles:
+
+accept-chartset - define o encode usado ao enviar o formulário.
+action - define para qual URL o formulário será enviado.
+autocomplete - define se os campos terão a função "auto-completar" habilitada. 
+enctype - define qual codificação de formulário será usada.
+method - define qual será o método de envio do formulário.
+name - define o nome do formulário.
+novalidate - define se deve ser validado ao enviar.
+target - define qual o alvo ao enviar o formulário.
+
+Estilo CSS padrão:
+
+form {
+    display: block;
+    margin-top: 0em;
+}

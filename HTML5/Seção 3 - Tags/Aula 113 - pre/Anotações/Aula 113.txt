@@ -1,0 +1,10 @@
+Tag utilizada para definir um texto pré-formatado e preserva os espaços e quebras de linha. Recebe todos os atributo globais e não possui nenhum atributo exclusivo.
+
+Estilo CSS padrão:
+
+pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0;
+}
